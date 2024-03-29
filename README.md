@@ -1,0 +1,1 @@
+However, this calculation need some adjustment that relates to temperature correction of orifice bore size (calculation may be uncorrect at high temperature - for example: superheat steam flowrate measurement)
